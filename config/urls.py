@@ -19,5 +19,7 @@ from django.urls import path , include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('generator.urls'))
+    #path('', include('generator.urls'))
+    path('', include('fullstack_tutorial.urls'))
 ]
+
