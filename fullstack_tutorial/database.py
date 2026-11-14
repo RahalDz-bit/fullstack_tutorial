@@ -1,82 +1,84 @@
-podex = {
+
+{
   "1": {
     "name": "Bulbasaur",
-    "type": ["Grass", "Poison"]
+    "type": "Grass"
   },
   "2": {
     "name": "Ivysaur",
-    "type": ["Grass", "Poison"]
+    "type": "Grass"
   },
   "3": {
     "name": "Venusaur",
-    "type": ["Grass", "Poison"]
+    "type": "Grass"
   },
   "4": {
     "name": "Charmander",
-    "type": ["Fire"]
+    "type": "Fire"
   },
   "5": {
     "name": "Charmeleon",
-    "type": ["Fire"]
+    "type": "Fire"
   },
   "6": {
     "name": "Charizard",
-    "type": ["Fire", "Flying"]
+    "type": "Fire"
   },
   "7": {
     "name": "Squirtle",
-    "type": ["Water"]
+    "type": "Water"
   },
   "8": {
     "name": "Wartortle",
-    "type": ["Water"]
+    "type": "Water"
   },
   "9": {
     "name": "Blastoise",
-    "type": ["Water"]
+    "type": "Water"
   },
   "10": {
     "name": "Caterpie",
-    "type": ["Bug"]
+    "type": "Bug"
   },
   "11": {
     "name": "Metapod",
-    "type": ["Bug"]
+    "type": "Bug"
   },
   "12": {
     "name": "Butterfree",
-    "type": ["Bug", "Flying"]
+    "type": "Bug"
   },
   "13": {
     "name": "Weedle",
-    "type": ["Bug", "Poison"]
+    "type": "Bug"
   },
   "14": {
     "name": "Kakuna",
-    "type": ["Bug", "Poison"]
+    "type": "Bug"
   },
   "15": {
     "name": "Beedrill",
-    "type": ["Bug", "Poison"]
+    "type": "Bug"
   },
   "16": {
     "name": "Pidgey",
-    "type": ["Normal", "Flying"]
+    "type": "Normal"
   },
   "17": {
     "name": "Pidgeotto",
-    "type": ["Normal", "Flying"]
+    "type": "Normal"
   },
   "18": {
     "name": "Pidgeot",
-    "type": ["Normal", "Flying"]
+    "type": "Normal"
   },
   "19": {
     "name": "Rattata",
-    "type": ["Normal"]
+    "type": "Normal"
   },
   "20": {
     "name": "Raticate",
-    "type": ["Normal"]
+    "type": "Normal"
   }
 }
+

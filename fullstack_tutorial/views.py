@@ -12,8 +12,6 @@ def getData(request) :
     data  = database.podex
     return Response(data)
 
-def podex(request) :
- 
-    return render(request=request, template_name='nigga.html')
+
 
 
