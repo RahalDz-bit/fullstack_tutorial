@@ -1,5 +1,5 @@
 
-{
+podex = {
   "1": {
     "name": "Bulbasaur",
     "type": "Grass"
